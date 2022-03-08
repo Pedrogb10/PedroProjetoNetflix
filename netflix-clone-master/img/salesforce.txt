@@ -1,0 +1,11 @@
+Unidade donate
+
+1- A,C,D - golden não
+
+2- False
+
+Codificação para acessibilidade web
+
+1- Semantica
+
+2- Papeis, estados e propriedades
